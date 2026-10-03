@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+venv/
+__pycache__/
+build/
+dist/
+.dart_tool/
+.idea/
+.vscode/
+*.iml

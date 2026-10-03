@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pyjwt
+python-dotenv
+pandas
+numpy
+Pillow
+rembg
+onnxruntime
+google-generativeai
+SpeechRecognition
+pydub
+noisereduce
+soundfile
+deep-translator
